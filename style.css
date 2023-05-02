@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+header{
+  width: 90%;
+  padding: 20px 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header .heading{
+  font-size: 32px;
+}
+
+.nav-list {
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+
+
+.box {
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color :blue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flexbox1{
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+
+.flexbox2{
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+}
+
+.flexbox3{
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+
+.flexbox4{
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
+
+.flexbox5{
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+
+.flexbox6{
+  width: 200px;
+  height: 200px;
+  background-color: #edffbe;
+}
+
+.flexbox7{
+  width: 200px;
+  height: 200px;
+  background-color: #e9ffa5;
+}
+
+.flexbox8{
+  width: 200px;
+  height: 200px;
+  background-color: #e4ff8d;
+}
+
+.flexbox9{
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+
+.flexbox10{
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+
+.flexbox11{
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff;
+}
+
+.flexbox12{
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff;
+}
+
+footer{
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color: #848282;
+}
